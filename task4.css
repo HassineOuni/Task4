@@ -1,0 +1,9 @@
+#parent-element {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  button[textContent='X'] {
+    background-color: red;
+}
